@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-debug@3.0.0:
-  version "3.0.0"
-  resolved "http://artifactory.dev.snyk.io/artifactory/api/npm/npm-deps-test-public/debug/-/debug-3.0.0.tgz#8b257427dcf769a3b341b2b432c9116fa965110f"
-  integrity sha1-iyV0J9z3aaOzQbK0MskRb6llEQ8=
+debug@3.1.0:
+  version "3.1.0"
+  resolved "http://artifactory.dev.snyk.io/artifactory/api/npm/npm-deps-test-public/debug/-/debug-3.1.0.tgz#d483f664401d21bd22eb38a30f1d663cac9a8e9e"
+  integrity sha1-1IP2ZEAdIb0i6zijDx1mPKyajp4=
   dependencies:
     ms "2.0.0"
 
